@@ -1,0 +1,4 @@
+tuto: vendee: des bornes intelligentes pour collecter et recycler les cartouches d'encre
+la collecte intelligente des dechets 
+invention: une borne pour trier les dechets qui recompenses ses utilisateurs
+Recyclage: une poubelle intelligente trie gobelet, canette et bouteille
